@@ -1,0 +1,14 @@
+ {
+	"responsive": true,
+	"tmpSocialIconFont": true,
+	"enableEditorJS": true,
+	"description": "Venue is a contemporary theme that's perfect for anyone looking to make a big first impression. With unique color palettes and full screen header images Venue sets a strong creative tone for you to build unique content and assert your own voice.",
+	"features": [
+		"responsive",
+		"css-buttons",
+		"social-icons",
+		"full-width-header",
+		"navigation-collapsible",
+		"color-palettes"
+	]
+}
